@@ -37,5 +37,9 @@ Product/category performance
 Store/location analysis
 Top-performing products
 Interactive filters and slicers
+
 Business Impact & Insights
 The dashboard enables users to quickly identify sales trends, understand product performance, compare different categories or locations, and make more informed data-driven decisions.
+
+6. Screenshot / Demos
+7. Shows what dashboard looks like - https://github.com/Bhavik306/Starbucks_Anaysis_Dashboard/blob/main/Snapshot%20of%20dashboard.png
