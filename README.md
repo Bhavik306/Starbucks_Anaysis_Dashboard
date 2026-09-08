@@ -1,4 +1,5 @@
 ☕ Starbucks Sales Dashboard
+
 1. Project Title / Headline
 
 Starbucks Sales Analytics Dashboard
@@ -18,6 +19,7 @@ The dashboard was built using the following tools and technologies:
 🧠 DAX (Data Analysis Expressions) – Used to create calculated measures, KPIs, and analytical calculations.
 🔗 Data Modeling – Used to establish relationships between tables and enable effective filtering and analysis.
 📄 File Format – .pbix for the Power BI project and .png for dashboard previews.
+
 4. Data Source
 
 The dashboard uses a Starbucks sales dataset containing information related to transactions, products, stores, sales amounts, quantities, and dates.
@@ -25,6 +27,7 @@ The dashboard uses a Starbucks sales dataset containing information related to t
 The data was cleaned and transformed using Power Query before being modeled and visualized in Power BI.
 
 5. Features / Highlights
+   
 Business Problem
 Starbucks generates large volumes of sales data, making it difficult to identify important sales trends, top-performing products, and overall business performance from raw data.
 Goal of the Dashboard
@@ -38,8 +41,9 @@ Store/location analysis
 Top-performing products
 Interactive filters and slicers
 
-Business Impact & Insights
+6. Business Impact & Insights
+
 The dashboard enables users to quickly identify sales trends, understand product performance, compare different categories or locations, and make more informed data-driven decisions.
 
-6. Screenshot / Demos
-7. Shows what dashboard looks like - https://github.com/Bhavik306/Starbucks_Anaysis_Dashboard/blob/main/Snapshot%20of%20dashboard.png
+7. Screenshot / Demos
+ Shows what dashboard looks like - https://github.com/Bhavik306/Starbucks_Anaysis_Dashboard/blob/main/Snapshot%20of%20dashboard.png
