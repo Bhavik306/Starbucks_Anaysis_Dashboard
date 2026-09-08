@@ -1,16 +1,14 @@
 ☕ Starbucks Sales Dashboard
 
-1. Project Title / Headline
-
-Starbucks Sales Analytics Dashboard
+1.Starbucks Sales Analytics Dashboard
 
 A dynamic and interactive Power BI dashboard designed to analyze Starbucks sales performance, customer purchasing patterns, product performance, and revenue trends.
 
-2. Short Description / Purpose
+2.Short Description / Purpose
 
 The Starbucks Sales Dashboard is an interactive Power BI report developed to provide a clear overview of sales performance and business trends. The dashboard helps analyze revenue, orders, product categories, store performance, and sales patterns to support data-driven business decisions.
 
-3. Tech Stack
+3.Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
